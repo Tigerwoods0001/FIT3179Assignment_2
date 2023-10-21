@@ -15,7 +15,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/Tigerwoods0001/Assignment_2/main/Book2.csv",
+          "url": "https://raw.githubusercontent.com/Tigerwoods0001/FIT3179Assignment_2/main/Book2.csv",
           "format": {"type": "csv"}
         },
   
@@ -36,7 +36,7 @@
         }
       },
         {"data": {
-          "url": "https://raw.githubusercontent.com/Tigerwoods0001/Assignment_2/main/Book2.csv",
+          "url": "https://raw.githubusercontent.com/Tigerwoods0001/FIT3179Assignment_2/main/Book2.csv",
           "format": {"type": "csv"}
         },
         "mark": "circle",
@@ -53,7 +53,7 @@
         
            {
         "data": {
-          "url": "https://raw.githubusercontent.com/Tigerwoods0001/Assignment_2/main/Book6.csv",
+          "url": "https://raw.githubusercontent.com/Tigerwoods0001/FIT3179Assignment_2/main/Book6.csv",
           "format": {"type": "csv"}
         },
         "mark": "rule",
@@ -73,7 +73,7 @@
     },
         {
           "data": {
-          "url": "https://raw.githubusercontent.com/Tigerwoods0001/Assignment_2/main/Book6.csv",
+          "url": "https://raw.githubusercontent.com/Tigerwoods0001/FIT3179Assignment_2/main/Book6.csv",
           "format": {"type": "csv"}
         },
         "mark": "square",
